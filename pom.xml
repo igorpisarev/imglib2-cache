@@ -96,6 +96,8 @@
 	</ciManagement>
 
 	<properties>
+		<enforcer.skip>true</enforcer.skip>
+
 		<package-name>net.imglib2.cache</package-name>
 
 		<license.licenseName>bsd_2</license.licenseName>
